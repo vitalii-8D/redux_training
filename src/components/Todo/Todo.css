@@ -1,0 +1,27 @@
+.todo-container {
+    width: 150px;
+    display: inline-block;
+
+    margin: 10px;
+    padding: 10px 15px;
+    border: 1px solid darkred;
+    border-radius: 5px;
+    background-color: lightpink;
+
+    text-align: center;
+}
+h3 {
+    margin: 0 0 10px;
+}
+.checkbox-area {
+    margin-top: 5px;
+}
+p {
+    display: inline-block;
+    line-height: 1em;
+    margin: 0;
+}
+
+.cross-line {
+    text-decoration: line-through;
+}
